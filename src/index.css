@@ -1,0 +1,77 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+
+button {
+    @apply bg-gray-700 text-white text-sm leading-4 px-2 py-1 border border-transparent rounded-none outline-none;
+    width: fit-content;
+}
+
+button:focus {
+  @apply outline-none;
+}
+
+button:hover {
+    @apply bg-white text-black border-gray-300;
+}
+
+.modal {
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  position:fixed;
+}
+
+.modal-bottom {
+bottom:0;
+left:50%;
+transform: translateX(-50%);
+position: fixed;  
+}
+
+.modal-top {
+top:0;
+left:50%;
+transform: translateX(-50%);
+position: fixed;  
+}
+
+.modal-top-left {
+top:0;
+left:0;
+position: fixed;  
+}
+
+.modal-top-right {
+top:0;
+right:0;
+position: fixed;  
+}
+
+.modal-bottom-left {
+bottom:0;
+left:0;
+position: fixed;  
+}
+
+.blur-1 {
+  backdrop-filter: blur(1px);
+}
+  
+.blur-2 {
+  backdrop-filter: blur(2px);
+}
+
+.blur-3 {
+  backdrop-filter: blur(3px);
+}
+
+.blur-4 {
+  backdrop-filter: blur(4px);
+}
+
+.blur-5 {
+  backdrop-filter: blur(5px);
+}
+
+@tailwind utilities;
