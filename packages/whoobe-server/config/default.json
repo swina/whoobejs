@@ -3,12 +3,7 @@
   "port": 3030,
   "public": "../public/",
   "uploads": "../public/uploads/",
-  "workspace" : "../../workspace/",
-  "generator" : "../../whoobe-generator-alpha/",
   "nuxt" : "../../whoobe-nuxt",
-  "vite" : "../../whoobe-generator/",
-  "vite_deploy_hook" : "api.vercel.com",
-  "vide_deploy_path" : "/v1/integrations/deploy/prj_UrXSK65cstEKML6ExXwtbbYVmQ9N/9qhcTh7amC",
   "articles_limit" : 50,
   "paginate": {
     "default": 20,
@@ -26,12 +21,7 @@
     "sizes" : [1024,640,320,150]
   },
   "nedb": "../data",
-  "woocommerce" : { 
-    "url": "http://augusto.test",
-    "consumerKey" : "ck_44806231a7c5b3201e7e006b08ce285c257c8f45",
-    "consumerSecret" : "cs_72186259b4f41fc89a1886729a8078ed15596d59",
-    "version": "wc/v3"
-   },
+  
   "extendKey": "0299ka@@as000122212",
   "authentication": {
     "entity": "user",
