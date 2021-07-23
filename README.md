@@ -149,3 +149,10 @@ FORM_CONFIRM=__your_form_sender_confirm_url
 ```
 
 Normally this configuration is overwritten during the building process with your custom settings set in Whoobe Studio
+
+
+## ToDo List
+
+- [ ] Create full documentation
+- [ ] Create video instruction for Whoobe Studio
+- [ ] Create a unique installation (packages?)
