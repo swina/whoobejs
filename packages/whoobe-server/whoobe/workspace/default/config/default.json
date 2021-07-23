@@ -1,0 +1,55 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "public": "/whoobe/whoobe-server/public/",
+  "uploads": "/whoobe/whoobe-server/public/uploads/",
+  "paginate": {
+    "default": 20,
+    "max": 200
+  },
+  "nedb": "/whoobe/whoobe-server/data",
+  "extendKey": "0299ka@@as000122212",
+  "mysql": {
+    "client": "mysql2",
+    "connection": "mysql://root:@localhost:3306/whoobe"
+  },
+  "authentication": {
+    "entity": "user",
+    "service": "users",
+    "secret": "7BwjcUTOMHzWsfYGN/WaCMB5MhQ=",
+    "authStrategies": [
+      "jwt",
+      "local"
+    ],
+    "jwtOptions": {
+      "header": {
+        "typ": "access"
+      },
+      "audience": "https://yourdomain.com",
+      "issuer": "feathers",
+      "algorithm": "HS256",
+      "expiresIn": "1d"
+    },
+    "local": {
+      "usernameField": "email",
+      "passwordField": "password"
+    },
+    "oauth": {
+      "redirect": "/",
+      "google": {
+        "key": "<google oauth key>",
+        "secret": "<google oauth secret>",
+        "scope": [
+          "email",
+          "profile",
+          "openid"
+        ]
+      },
+      "github": {
+        "key": "<github oauth key>",
+        "secret": "<github oauth secret>"
+      }
+    }
+  }
+} 
+

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   viewBox="0 0 52.916665 52.916668"
+   version="1.1"
+   id="svg5265"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="whoobe-graphic-logo.svg">
+  <defs
+     id="defs5259" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="158.78785"
+     inkscape:cy="165.31434"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5262">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-244.08332)">
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#987bc1;stroke-width:19.66500282;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4638"
+       sodipodi:cx="-179.95425"
+       sodipodi:cy="4.3662195"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3.0070786"
+       sodipodi:radius="103.93893"
+       sodipodi:argument="-17.846834"
+       sodipodi:t0="0.93132365"
+       d="m -86.171764,-19.61785 c 13.516441,42.614301 -4.594497,89.80046 -41.813086,113.997854"
+       transform="matrix(0.24816913,0,0,0.27020583,67.078644,254.83755)" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#730064;stroke-width:19.66500282;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4638-6"
+       sodipodi:cx="-313.4635"
+       sodipodi:cy="180.62543"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3.0070786"
+       sodipodi:radius="103.93893"
+       sodipodi:argument="-17.846834"
+       sodipodi:t0="0.93130565"
+       d="m -219.69099,156.60993 c 13.53467,42.62129 -4.5746,89.82544 -41.80311,114.02928"
+       transform="matrix(0.20981959,-0.07115724,0.07171037,0.17669089,70.775708,214.77079)" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#63448e;stroke-width:30.4837265;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4638-6-7"
+       sodipodi:cx="-313.4635"
+       sodipodi:cy="180.62543"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3.0070786"
+       sodipodi:radius="103.93893"
+       sodipodi:argument="-17.846834"
+       sodipodi:t0="0.65158498"
+       d="m -263.79085,226.66138 c -24.54994,31.21968 -71.15304,34.35629 -101.58244,9.97454 -34.65708,-27.76922 -38.00524,-79.89904 -10.43855,-113.79411 30.98443,-38.097407 88.64745,-41.656935 126.00579,-10.90256 41.53987,34.19672 45.31067,97.39765 11.36657,138.21745 -6.59914,7.93586 -14.40214,14.85717 -23.05462,20.48251"
+       transform="matrix(0.11029035,-0.13642195,0.11905683,0.10725028,31.541619,216.06885)" />
+  </g>
+</svg>

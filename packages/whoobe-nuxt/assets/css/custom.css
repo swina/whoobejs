@@ -1,0 +1,32 @@
+
+
+
+
+
+/* Carousel / Slider animations keyframes */
+@keyframes imageFadeNavigation {
+    0% { opacity: 0; animation-timing-function: ease-in; }
+    8% { opacity: 0; animation-timing-function: ease-out; }
+    25% { opacity: 1 }
+    50% { opacity: 1 }
+    100% { opacity: 1 }
+},
+@keyframes imageFade { 
+    0% { opacity: 0; animation-timing-function: ease-in; }
+    8% { opacity: 1; animation-timing-function: ease-out; }
+    25% { opacity: 1 }
+    50% { opacity: 1 }
+    100% { opacity: 0 }
+}
+
+@keyframes imageSlider {
+    0% {opacity:1;visibility: visible}
+    99% {opacity:1;visibility: hidden}
+}  
+@keyframes imageSlide { 
+    0% { opacity:0 ; background-position-x: 0%; animation-timing-function: linear; }
+    2% { opacity:1 ; background-position-x: 0%;  animation-timing-function: linear; }
+    25% { opacity: 1 }
+    95% { opacity: 1 ; }
+    100% { opacity: 0;background-position-x: 100%}
+}

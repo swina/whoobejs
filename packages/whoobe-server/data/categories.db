@@ -1,0 +1,30 @@
+{"name":"page","slug":"page","type":"article","active":true,"collection":"","_id":"0Q9hSi8eKdaCEAkS","createdAt":{"$$date":1622831385280},"updatedAt":{"$$date":1622831385280}}
+{"name":"Sports & Outdoor","type":"product","slug":"sports--outdoor","active":true,"_id":"3Dh0U5I13H9QK5A7","createdAt":{"$$date":1622715389152},"updatedAt":{"$$date":1622715389152}}
+{"name":"component","slug":"component","type":"block","active":"true","_id":"3YUeiIEC8m0UArbL","createdAt":{"$$date":1626963860117},"updatedAt":{"$$date":1626963860117}}
+{"name":"template","slug":"template","type":"block","active":"true","_id":"3l3kWQGlyecglLz9","createdAt":{"$$date":1626963793601},"updatedAt":{"$$date":1626963793601}}
+{"name":"Smartphone","slug":"smartphone","type":"facet","active":true,"_id":"4varPKbHYQX6saNo","createdAt":{"$$date":1622716437169},"updatedAt":{"$$date":1622717243717},"collection":"cKKQuslj23el8IIX"}
+{"name":"TV","slug":"tv","type":"facet","active":true,"_id":"AxrWdWQsavtoClRI","createdAt":{"$$date":1622716402295},"updatedAt":{"$$date":1622717203444},"collection":"cKKQuslj23el8IIX"}
+{"name":"homepage","slug":"homepage","type":"block","active":"true","_id":"EWdVrjYqVIIfh9UQ","createdAt":{"$$date":1626963755189},"updatedAt":{"$$date":1626963755189}}
+{"name":"Furniture","type":"facet","slug":"furniture","active":true,"_id":"Geq0QajImtLi65b9","createdAt":{"$$date":1622715389157},"updatedAt":{"$$date":1622717658092},"collection":"TClzpaAKMihkrRH0"}
+{"name":"widget","slug":"widget","type":"block","active":"true","_id":"HwD9b0hmnfkZpK7u","createdAt":{"$$date":1626963907054},"updatedAt":{"$$date":1626963907054}}
+{"name":"portfolio","slug":"portfolio","type":"block","active":"true","_id":"Lp40GyxNbChBngRo","createdAt":{"$$date":1626963850483},"updatedAt":{"$$date":1626963850483}}
+{"name":"Computers","type":"facet","slug":"computers","active":true,"_id":"T1tRsALvcxJ2gsL1","createdAt":{"$$date":1622715389160},"updatedAt":{"$$date":1622717285313},"collection":"cKKQuslj23el8IIX"}
+{"name":"Home & Garden","type":"product","slug":"home--garden","active":true,"_id":"TClzpaAKMihkrRH0","createdAt":{"$$date":1622715389144},"updatedAt":{"$$date":1622715389144}}
+{"name":"landing page","slug":"landing-page","type":"block","active":"true","_id":"TvauLVHEu0V3DbuJ","createdAt":{"$$date":1626963774064},"updatedAt":{"$$date":1626963774064}}
+{"name":"Stickers da Muro per Bambini","type":"product","slug":"stickers-da-muro-per-bambini","active":true,"_id":"Y3chI3wmfXYgQW2v","createdAt":{"$$date":1626374016527},"updatedAt":{"$$date":1626374016527}}
+{"name":"RAM","type":"facet","slug":"ram","collection":"cKKQuslj23el8IIX","_id":"ZMMNGR1XqApK0D19","createdAt":{"$$date":1622718395607},"updatedAt":{"$$date":1622718395607}}
+{"name":"Electronics","type":"product","slug":"electronics","active":true,"_id":"cKKQuslj23el8IIX","createdAt":{"$$date":1622715389158},"updatedAt":{"$$date":1622715389158}}
+{"name":"Accessories","type":"facet","slug":"accessories","collection":"cKKQuslj23el8IIX","_id":"d3561s18pdjBtWQ6","createdAt":{"$$date":1622718828846},"updatedAt":{"$$date":1622718828846}}
+{"name":"Photo","type":"facet","slug":"photo","active":true,"_id":"eQh8tS1a2PsPGS8v","createdAt":{"$$date":1622715389162},"updatedAt":{"$$date":1622717560035},"collection":"cKKQuslj23el8IIX"}
+{"name":"demo page","slug":"demo-page","type":"block","active":"true","_id":"iOjNEglyznxSCHhY","createdAt":{"$$date":1626964001159},"updatedAt":{"$$date":1626964001159}}
+{"name":"menu","slug":"menu","type":"block","active":"true","_id":"ihSkW64y7XStxBaK","createdAt":{"$$date":1626963804453},"updatedAt":{"$$date":1626963804453}}
+{"name":"blog","slug":"blog","type":"article","active":true,"collection":"","_id":"lZOhjbUAUcUVkF8N","createdAt":{"$$date":1622831411070},"updatedAt":{"$$date":1622831411070}}
+{"name":"Tablet","slug":"tablet","type":"facet","active":true,"_id":"m2aa5tcfGIxt0ja6","createdAt":{"$$date":1622716461313},"updatedAt":{"$$date":1622717347168},"collection":"cKKQuslj23el8IIX"}
+{"name":"Equipment","type":"facet","slug":"equipment","active":true,"_id":"nq519pB25gTgXBBL","createdAt":{"$$date":1622715389154},"updatedAt":{"$$date":1622717606705},"collection":"3Dh0U5I13H9QK5A7"}
+{"name":"Plants","type":"facet","slug":"plants","active":true,"_id":"qy2pviOsnOilO7Tk","createdAt":{"$$date":1622715389147},"updatedAt":{"$$date":1622717673593},"collection":"TClzpaAKMihkrRH0"}
+{"name":"loop","slug":"loop","type":"block","active":"true","_id":"s9cQFk4baCwgmbDl","createdAt":{"$$date":1626963990435},"updatedAt":{"$$date":1626963990435}}
+{"name":"Footwear","type":"facet","slug":"footwear","active":true,"_id":"t86w5akzQsxcpa6r","createdAt":{"$$date":1622715389155},"updatedAt":{"$$date":1622717625332},"collection":"3Dh0U5I13H9QK5A7"}
+{"name":"page","slug":"page","type":"block","active":"true","_id":"vENZ4Ob1EgFOMLis","createdAt":{"$$date":1615316647281},"updatedAt":{"$$date":1622715197734}}
+{"name":"Favole e Avventure","type":"facet","slug":"favole-e-avventure","active":true,"collection":"Y3chI3wmfXYgQW2v","_id":"w0NmC214Q5miowz6","createdAt":{"$$date":1626374016583},"updatedAt":{"$$date":1626374016583}}
+{"name":"Monitor","slug":"monitor","type":"facet","active":true,"_id":"w0ia2pESNqvwHyw5","createdAt":{"$$date":1622716513607},"updatedAt":{"$$date":1622717440610},"collection":"cKKQuslj23el8IIX"}
+{"name":"slider","slug":"slider","type":"block","active":"true","_id":"wPxz11HU6Vp4UiDM","createdAt":{"$$date":1626963815226},"updatedAt":{"$$date":1626963815226}}

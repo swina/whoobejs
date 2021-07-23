@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20px"
+   height="20px"
+   viewBox="0 0 20 20"
+   version="1.1"
+   >
+  <defs
+     id="defs5675" />
+  
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="opacity:0.972;fill:#0f5e9f;fill-opacity:0.98785424;stroke:none;stroke-width:0.43531084;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path5902-5"
+       cx="5.029954"
+       cy="5.0661149"
+       rx="4.1855931"
+       ry="4.1912713" />
+    <ellipse
+       style="opacity:0.972;fill:#0f96bb;fill-opacity:0.74349443;stroke:none;stroke-width:0.43531084;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path5902-5-4"
+       cx="15.273824"
+       cy="6.1508117"
+       rx="4.1855931"
+       ry="4.1912713" />
+    <ellipse
+       style="opacity:0.972;fill:#0faa9f;fill-opacity:0.98785424;stroke:none;stroke-width:0.43531084;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path5902-5-0"
+       cx="8.7541342"
+       cy="15.204288"
+       rx="4.1855931"
+       ry="4.1912713"
+       inkscape:export-xdpi="72"
+       inkscape:export-ydpi="72" />
+  </g>
+</svg>

@@ -1,0 +1,61 @@
+{
+    "general": {
+      "site_name": "site name",
+      "site_headline": "site headline",
+      "logo_img": null,
+      "show_title": false,
+      "credits": "",
+      "autoimage": true,
+      "breadcrumb": true,
+      "darkmode": false,
+      "darkmode_color": null,
+      "darkmode_bg": null,
+      "authentication": false,
+      "scrolltop": true,
+      "read_more": "READ MORE",
+      "body_image": null,
+      "body_bg": null,
+      "body_color": null,
+      "google_analytics": null,
+      "seo_title": "seo title",
+      "seo_description": "seo description",
+      "responsive_menu_css": "",
+      "responsive_menu_transition":"",
+      "header": []
+    },
+    "categories": {
+      "components": [
+        "component",
+        "landing page",
+        "menu",
+        "page",
+        "portfolio",
+        "project",
+        "slider",
+        "template",
+        "widget",
+        "demo page"
+      ],
+      "articles": [
+        "page",
+        "news",
+        "blog"
+      ],
+      "products": {}
+    },
+    "types": {
+      "components": [
+        "brand",
+        "call to action",
+        "content",
+        "feature",
+        "footer",
+        "form",
+        "header",
+        "homepage",
+        "pricing",
+        "team",
+        "testimonial"
+      ]
+    }
+  }

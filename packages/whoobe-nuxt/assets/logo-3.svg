@@ -1,0 +1,19 @@
+<svg width="300" height="50" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <rect fill="none" id="canvas_background" height="52" width="302" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <text stroke="#444444" transform="matrix(1.9521410465240479,0,0,1.9521410465240479,-14.579659774899483,-36.10697374865413) " font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="20" id="svg_1" y="36.74601" x="14.93605" fill="#ffffff">n</text>
+  <text stroke="#444444" transform="matrix(1.9521410465240479,0,0,1.9521410465240479,-14.579659774899483,-36.10697374865413) " font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="20" id="svg_2" y="36.87415" x="31.07814" fill="#ffffff">u</text>
+  <text stroke="#444444" transform="matrix(1.9521410465240479,0,0,1.9521410465240479,-14.579659774899483,-36.10697374865413) " font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_4" y="37.0023" x="65.28542" fill="#ffffff">p</text>
+  <text stroke="#444444" transform="matrix(1.9521410465240479,0,0,1.9521410465240479,-14.579659774899483,-36.10697374865413) " font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_5" y="37.38673" x="81.81224" fill="#ffffff">r</text>
+  <text stroke="#444444" transform="matrix(1.9521410465240479,0,0,1.9521410465240479,-14.579659774899483,-36.10697374865413) " font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_6" y="37.0023" x="94.49504" fill="#ffffff">e</text>
+  <text stroke="#444444" transform="matrix(1.9521410465240479,0,0,1.9521410465240479,-14.579659774899483,-36.10697374865413) " font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_7" y="37.0023" x="111.27784" fill="#ffffff">s</text>
+  <text stroke="#444444" transform="matrix(1.9521410465240479,0,0,1.9521410465240479,-14.579659774899483,-36.10697374865413) " font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_8" y="37.0023" x="127.67636" fill="#ffffff">s</text>
+  <text stroke="#444444" transform="matrix(1.9521410465240479,0,0,1.9521410465240479,-14.579659774899483,-36.10697374865413) " font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_9" y="37.0023" x="141.76956" fill="#ffffff">o</text>
+  <text stroke="#444444" transform="matrix(1.9521410465240479,0,0,1.9521410465240479,-14.579659774899483,-36.10697374865413) " font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="20" id="svg_11" y="36.87415" x="48.49488" fill="#ffffff">x</text>
+ </g>
+</svg>

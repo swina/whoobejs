@@ -1,0 +1,111 @@
+@tailwind base;
+
+.clip-path-angle-left {
+    clip-path: polygon(0 0,100% 0,100% 100%,0 87%);
+    min-height:11rem;
+    height:11rem;
+}
+
+.clip-path-angle-right {
+    clip-path: polygon(0 0,100% 0,100% 87%,0 100%);
+    min-height:11rem;
+    height:11rem;
+}
+
+.clip-path-tag-down {
+    clip-path: polygon(50% 0,100% 0,100% 100%,51% 84%,0 100%,0 0);
+    min-height:11rem;
+    height:11rem;
+    padding-bottom:14rem!important;
+}
+
+.clip-path-circle {
+    clip-path: circle(50% at 50% 50%);
+}
+.clip-path-frame {
+  clip-path: polygon(0% 0%, 0% 100%, 25% 100%, 25% 25%, 75% 25%, 75% 75%, 25% 75%, 25% 100%, 100% 100%, 100% 0%);
+}
+.clip-path-cross {
+  clip-path: polygon(20% 0%, 0% 20%, 30% 50%, 0% 80%, 20% 100%, 50% 70%, 80% 100%, 100% 80%, 70% 50%, 100% 20%, 80% 0%, 50% 30%);
+}
+
+.clip-path-arrow-right {
+  clip-path: polygon(0% 20%, 60% 20%, 60% 0%, 100% 50%, 60% 100%, 60% 80%, 0% 80%);
+}
+
+.clip-path-arrow-left {
+  clip-path: polygon(40% 0%, 40% 20%, 100% 20%, 100% 80%, 40% 80%, 40% 100%, 0% 50%);
+}
+
+.clip-path-stairs {
+  clip-path: polygon(29% 0, 29% 25%, 53% 25%, 53% 49%, 78% 49%, 78% 73%, 100% 73%, 100% 100%, 0 100%, 0 0);
+}
+
+.clip-path-stairs-2 {
+  clip-path: polygon(18% 0, 18% 31%, 45% 31%, 45% 55%, 73% 55%, 73% 77%, 100% 77%, 100% 100%, 0 100%, 0 0);
+
+}
+
+.clip-path-triangle {
+  clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+}
+.clip-path-trapezoid-left {
+    clip-path: polygon(0 11%, 100% 0, 100% 100%, 0 89%);
+}
+
+.clip-path-trapezoid-right {
+  clip-path: polygon(0 0, 100% 11%, 100% 89%, 0 100%);
+}
+
+
+.clip-path-rombus {
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+}
+
+.clip-path-parallelogram {
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+}
+    
+
+.nuxpresso-color-primary { 
+    @apply bg-transparent text-gray-600;
+   }
+   .nuxpresso-color-primary:hover { 
+    @apply text-black;
+   }
+    .nuxpresso-color-background { 
+    @apply bg-white text-black;
+   }
+   .nuxpresso-color-background:hover { 
+    @apply text-black;
+   }
+    .nuxpresso-color-header { 
+    @apply bg-blue-600 text-black;
+   }
+   .nuxpresso-color-header:hover { 
+    @apply text-black;
+   }
+    .nuxpresso-color-footer { 
+    @apply bg-teal-700 text-black;
+   }
+   .nuxpresso-color-footer:hover { 
+    @apply text-black;
+   }
+    .nuxpresso-color-link { 
+    @apply bg-teal-700 text-black;
+   }
+   .nuxpresso-color-link:hover { 
+    @apply text-black;
+   }
+    .nuxpresso-color-menu > span > a { 
+    @apply bg-transparent text-white;
+   }
+   .nuxpresso-color-menu > span > a:hover { 
+    @apply text-blue-200;
+   }
+   .nuxpresso-color-heading  { 
+    @apply bg-transparent text-blue-500;
+   }
+   .nuxpresso-color-heading:hover { 
+    @apply text-blue-700;
+   }

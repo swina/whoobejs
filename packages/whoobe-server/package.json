@@ -1,0 +1,75 @@
+{
+  "name": "whoobe-server",
+  "description": "",
+  "version": "0.0.0",
+  "homepage": "",
+  "main": "src",
+  "keywords": [
+    "feathers"
+  ],
+  "author": {
+    "name": "Swina Allen",
+    "email": "swina.allen@gmail.com"
+  },
+  "contributors": [],
+  "bugs": {},
+  "directories": {
+    "lib": "src",
+    "test": "test/",
+    "config": "config/"
+  },
+  "engines": {
+    "node": "^12.0.0",
+    "yarn": ">= 0.18.0"
+  },
+  "scripts": {
+    "test": "yarn run eslint && yarn run jest",
+    "eslint": "eslint src/. test/. --config .eslintrc.json",
+    "dev": "nodemon -i ./public src/",
+    "start": "node src/",
+    "jest": "jest  --forceExit"
+  },
+  "dependencies": {
+    "@feathersjs/authentication": "^4.4.1",
+    "@feathersjs/authentication-local": "^4.4.1",
+    "@feathersjs/authentication-oauth": "^4.4.1",
+    "@feathersjs/configuration": "^4.4.1",
+    "@feathersjs/errors": "^4.4.1",
+    "@feathersjs/express": "^4.4.1",
+    "@feathersjs/feathers": "^4.4.1",
+    "@feathersjs/socketio": "^4.4.1",
+    "@feathersjs/transport-commons": "^4.5.11",
+    "@woocommerce/woocommerce-rest-api": "^1.0.1",
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "dauria": "^2.0.0",
+    "feathers-blob": "^2.3.0",
+    "feathers-knex": "^7.1.0",
+    "feathers-memory": "^4.1.0",
+    "feathers-nedb": "^5.1.0",
+    "feathers-nedb-fuzzy-search": "^1.4.0",
+    "file-type": "^16.3.0",
+    "fs-blob-store": "^6.0.0",
+    "fs-extra": "^9.1.0",
+    "helmet": "^3.21.2",
+    "jimp": "^0.16.1",
+    "jsonpath": "^1.1.1",
+    "kill-port": "^1.6.1",
+    "knex": "^0.95.2",
+    "multer": "^1.4.2",
+    "mysql2": "^2.2.5",
+    "nedb": "^1.8.0",
+    "serve-favicon": "^2.5.0",
+    "sharp": "^0.28.1",
+    "slash": "^3.0.0",
+    "unirest": "^0.6.0",
+    "winston": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.1"
+  }
+}

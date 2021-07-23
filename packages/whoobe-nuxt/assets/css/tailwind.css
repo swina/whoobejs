@@ -1,0 +1,167 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+
+body { 
+  @apply overflow-x-hidden
+}
+
+h1 {
+  @apply text-5xl leading-normal;
+}
+
+h2 {
+  @apply text-4xl leading-normal;
+}
+
+h3 {
+  @apply text-3xl leading-normal;
+}
+
+h4 {
+  @apply text-2xl leading-normal;
+}
+
+h5 {
+  @apply text-2xl leading-normal;
+}
+
+ul {
+  @apply ml-10 my-2;
+}
+ul > li {
+  @apply list-disc;
+}
+
+button {
+    @apply bg-gray-700 text-white text-sm leading-4 px-2 py-1 border border-transparent rounded-none outline-none;
+    width: fit-content;
+}
+
+button:focus {
+  @apply outline-none;
+}
+
+button:hover {
+    @apply bg-white text-black border-gray-300;
+}
+
+.truncate  {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.modal {
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  position:fixed;
+}
+
+.modal-bottom {
+bottom:0;
+left:50%;
+transform: translateX(-50%);
+position: fixed;  
+}
+
+.modal-top {
+top:0;
+left:50%;
+transform: translateX(-50%);
+position: fixed;  
+}
+
+.modal-top-left {
+top:0;
+left:0;
+position: fixed;  
+}
+
+.modal-top-right {
+top:0;
+right:0;
+position: fixed;  
+}
+
+.modal-bottom-left {
+bottom:0;
+left:0;
+position: fixed;  
+}
+
+.blur-1 {
+  backdrop-filter: blur(1px);
+}
+  
+.blur-2 {
+  backdrop-filter: blur(2px);
+}
+
+.blur-3 {
+  backdrop-filter: blur(3px);
+}
+
+.blur-4 {
+  backdrop-filter: blur(4px);
+}
+
+.blur-5 {
+  backdrop-filter: blur(5px);
+}
+
+code , pre {
+  @apply bg-gray-200 p-2 overflow-x-auto;
+  font-family: monospace;
+}
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .7s;
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+  opacity: 0;
+}
+
+.slideleft-enter-active {
+  transition: transform .8s ease-in-out;
+}
+
+.slideleft-leave-active {
+  transition: transform .8s ease-in-out;
+}
+
+.slideleft-enter-to, .slideleft-leave {
+  transform: translate(0%, 0);
+  overflow: hidden;
+}
+
+.slideleft-enter, .slideleft-leave-to {
+  transform: translate(-100%, 0);
+  margin-right: 0;
+}
+
+/*---------------------------*/
+
+.slideright-enter-active {
+  transition: transform .8s ease-in-out;
+}
+
+.slideright-leave-active {
+  transition: transform .8s ease-in-out;
+}
+
+.slideright-enter-to, .slideright-leave {
+  transform: translate(0%, 0);
+  overflow: hidden;
+}
+
+.slideright-enter, .slideright-leave-to {
+  transform: translate(100%, 0);
+  margin-right: 0;
+}
+
+.snipcart-modal {
+  z-index: 10000000;
+}
+@tailwind utilities;
