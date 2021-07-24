@@ -4,14 +4,14 @@
 
 Whoobe is 
 
-- a visual blocks builder web app (**Whoobe Studio**) based on VueJS to create pages, templates, widgets, articles and manage all you assets, included the building/deploy process
-- a static website generator (**Whoobe Generator**) based on NuxtJ to create a full static landing page or even a website
-- a zero configuration headless CMS (**Whoobe Server**) based on Feathersjs
+- a visual blocks builder web app (**Whoobe Studio**) based on **VueJS** to create pages, templates, widgets, articles and manage all you assets, included the building/deploy process
+- a static website generator (**Whoobe Generator**) based on **NuxtJS** to create a full static landing page or even a website
+- a zero configuration headless CMS (**Whoobe Server**) based on **Feathersjs**
 
 
 ## Documentation
 
-[Documenation](https://whoobe-docs.vercel.app)
+[Documentation](https://whoobe-docs.vercel.app)
 
 ***Documentation is still not complete since current version can require major changes.*** 
 <!-- 
