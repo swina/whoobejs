@@ -9,6 +9,12 @@ Whoobe is
 - a zero configuration headless CMS (**Whoobe Server**) based on Feathersjs
 
 
+## Documentation
+
+[Documenation](https://whoobe-docs.vercel.app)
+
+***Documentation is still not complete since current version can require major changes.*** 
+<!-- 
 ## Clone repo
 
 ```
@@ -148,11 +154,12 @@ FORM_SENDER=__your_form_sender_url__
 FORM_CONFIRM=__your_form_sender_confirm_url
 ```
 
-Normally this configuration is overwritten during the building process with your custom settings set in Whoobe Studio
+Normally this configuration is overwritten during the building process with your custom settings set in Whoobe Studio -->
 
 
 ## ToDo List
 
-- [ ] Create full documentation
+- [ ] Complete full documentation
 - [ ] Create video instruction for Whoobe Studio
 - [ ] Create a unique installation (packages?)
+- [ ] Integrate Whoobe Server as Whoobe Generator middleware
