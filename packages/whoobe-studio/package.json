@@ -31,7 +31,7 @@
     "quill-image-extend-module": "^1.1.2",
     "quill-image-resize-module": "^3.0.0",
     "register-service-worker": "^1.7.1",
-    "socket.io-client": "1.7.3",
+    "socket.io-client": "1.7.4",
     "tailwindcss": "^1.8.10",
     "vue": "^2.6.11",
     "vue-blob-json-csv": "^0.1.7",
