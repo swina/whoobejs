@@ -23,7 +23,7 @@
     "dotenv": "^8.2.0",
     "fs-extra": "^9.1.0",
     "gsap": "^3.5.1",
-    "nuxt": "^2.15.6",
+    "nuxt": "^3.4.3",
     "rsvp": "^4.8.5",
     "socket.io-client": "1.7.3",
     "validator": "^13.5.2",
