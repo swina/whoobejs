@@ -40,7 +40,7 @@
     "@feathersjs/socketio": "^4.4.1",
     "@feathersjs/transport-commons": "^4.5.11",
     "@woocommerce/woocommerce-rest-api": "^1.0.1",
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "cheerio": "^1.0.0-rc.10",
     "compression": "^1.7.4",
     "cors": "^2.8.5",
