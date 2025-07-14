@@ -37,7 +37,7 @@
     "@feathersjs/errors": "^4.4.1",
     "@feathersjs/express": "^4.4.1",
     "@feathersjs/feathers": "^4.4.1",
-    "@feathersjs/socketio": "^4.4.1",
+    "@feathersjs/socketio": "^5.0.0",
     "@feathersjs/transport-commons": "^4.5.11",
     "@woocommerce/woocommerce-rest-api": "^1.0.1",
     "axios": "^0.21.1",
